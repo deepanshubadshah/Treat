@@ -1,4 +1,6 @@
-Treat is a responsive cloud-based software (designed for restaurants) for billing, accounting (Tax/GST calculation) and inventory management with the proper dashboard (sales, expenses, and low inventory reporting system).
+Treat is a responsive cloud-based software (designed for restaurants) for billing, accounting (Tax/GST calculation)
+and inventory management with the proper dashboard (sales, expenses, and low inventory reporting system).
+
 Other features:
 1. jQuery-AJAX Live (keyup) Search for faster billing.
 2. Multiple-table billing at the same time.
